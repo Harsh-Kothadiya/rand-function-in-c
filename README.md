@@ -1,0 +1,1 @@
+# rand-function-in-c
